@@ -1,3 +1,8 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/oledjigames/AG-DownGel/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/oledjigames/AG-DownGel/blob/main/README.ru.md)
+[![zh](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/oledjigames/AG-DownGel/blob/main/README.zh.md)
+[![ja](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/oledjigames/AG-DownGel/blob/main/README.ja.md)
+
 # AG-DownGel
 
 A cross-platform GUI downloader for GelBooru.com, built with PyQt6. Search and download images, GIFs, and videos by tags with filtering, AI exclusion, and organized storage.
