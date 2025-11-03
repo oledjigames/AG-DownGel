@@ -27,7 +27,7 @@ A cross-platform GUI downloader for GelBooru.com, built with PyQt6. Search and d
 2. Enter tags in the search field (e.g., `brazilian_miku hatsune_miku feet`).
 3. Check "No AI" to exclude AI-generated.
 4. Select file types.
-5. (Optional) Enter User ID and API Key.
+5. Enter User ID and API Key.
 6. Click "Download All" – files save to `downloads/[tags]/`.
 ![alt text](https://github.com/Semiror78/AG-DownGel/blob/main/api.png?raw=true)
 
