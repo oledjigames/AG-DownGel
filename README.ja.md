@@ -20,7 +20,7 @@ PyQt6 で構築されたクロスプラットフォーム GUI ダウンローダ
 2. 検索フィールドにタグ入力（例: `brazilian_miku hatsune_miku feet`）。
 3. 「AIなし」をチェックで AI 生成除外。
 4. ファイルタイプ選択。
-5. （オプション）User ID と API Key 入力。
+5. User ID と API Key 入力。
 6. 「すべてダウンロード」クリック – ファイルは `downloads/[タグ]/` に保存。
 ![alt text](https://github.com/Semiror78/AG-DownGel/blob/main/api.png?raw=true)
 
