@@ -20,7 +20,7 @@
 2. 在搜索字段输入标签（例如 `brazilian_miku hatsune_miku feet`）。
 3. 选中“无 AI”以排除 AI 生成内容。
 4. 选择文件类型。
-5. （可选）输入 User ID 和 API Key。
+5. 输入 User ID 和 API Key。
 6. 点击“下载全部” – 文件保存到 `downloads/[标签]/`。
 ![alt text](https://github.com/Semiror78/AG-DownGel/blob/main/api.png?raw=true)
 
