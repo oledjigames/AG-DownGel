@@ -22,6 +22,8 @@
 4. Выберите типы файлов.
 5. (Опционально) Введите User ID и API Key.
 6. Нажмите "Скачать все" – файлы сохранятся в `downloads/[теги]/`.
+![alt text](https://github.com/Semiror78/AG-DownGel/blob/main/api.png?raw=true)
+
 
 ## Примеры тегов
 Из `guide.txt`:
