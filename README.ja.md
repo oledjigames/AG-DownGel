@@ -22,6 +22,8 @@ PyQt6 で構築されたクロスプラットフォーム GUI ダウンローダ
 4. ファイルタイプ選択。
 5. （オプション）User ID と API Key 入力。
 6. 「すべてダウンロード」クリック – ファイルは `downloads/[タグ]/` に保存。
+![alt text](https://github.com/Semiror78/AG-DownGel/blob/main/api.png?raw=true)
+
 
 ## タグ例
 `guide.txt` より:
