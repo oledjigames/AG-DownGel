@@ -20,7 +20,7 @@
 2. Введите теги в поле поиска (например, `brazilian_miku hatsune_miku feet`).
 3. Отметьте "Без ИИ" для исключения ИИ-генерированного.
 4. Выберите типы файлов.
-5. (Опционально) Введите User ID и API Key.
+5. Введите User ID и API Key.
 6. Нажмите "Скачать все" – файлы сохранятся в `downloads/[теги]/`.
 ![alt text](https://github.com/Semiror78/AG-DownGel/blob/main/api.png?raw=true)
 
