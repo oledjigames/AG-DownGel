@@ -29,6 +29,7 @@ A cross-platform GUI downloader for GelBooru.com, built with PyQt6. Search and d
 4. Select file types.
 5. (Optional) Enter User ID and API Key.
 6. Click "Download All" – files save to `downloads/[tags]/`.
+![alt text](https://github.com/Semiror78/AG-DownGel/blob/main/api.png?raw=true)
 
 ## Example Tags
 From `guide.txt`:
